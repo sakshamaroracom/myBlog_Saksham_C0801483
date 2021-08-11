@@ -1,3 +1,13 @@
+/* ===================================================================
+ 
+
+ LAB TEST 2
+ DEVELOPED BY SAKSHAM ARORA 
+ STUDENT ID: C0801483
+
+ * ------------------------------------------------------------------- */
+
+
 /* =================================================================== 
  *  TOC:
  *  # imports
@@ -1277,14 +1287,4 @@
  }
 
     
-
- .asideul{
-    list-style-type: none;
-    padding-left: 0;
-}
-.asideul li{
-    vertical-align:middle;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
+ 

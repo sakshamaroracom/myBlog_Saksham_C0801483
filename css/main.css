@@ -1,45 +1,15 @@
 /* ===================================================================
- *
- *  TOC:
- *  # custom block grid STACK breakpoints
- *  # base style overrides
- *    ## links 
- *  # typography & general theme styles
- *    ## lists 
- *    ## responsive video container
- *    ## floated image
- *    ## tables
- *    ## spacing 
- *  # preloader
- *  # forms 
- *    ## style placeholder text
- *    ## change autocomplete styles in chrome
- *  # buttons
- *  # additional components 
- *    ## additional typo styles 
- *    ## alert box 
- *    ## pagination 
- *  # common and reusable styles 
- *  # site header 
- *    ## header-logo
- *    ## main navigation
- *    ## mobile menu toggle 
- *    ## main navigation on large screens
- *  # content 
- *  # sidebar 
- *  # footer 
- *    ## footer social
- *    ## photostream
- *    ## copyright
- *    ## go top
- *  # blog styles and blog components
- *    ## entry meta
- *    ## entry tags
- *    ## entry post nav
- *    ## post-list-nav
- *    ## comments
- *
- * =================================================================== */
+ 
+
+ LAB TEST 2
+ DEVELOPED BY SAKSHAM ARORA 
+ STUDENT ID: C0801483
+
+ * ------------------------------------------------------------------- */
+
+
+
+
 
 
 
@@ -2570,3 +2540,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     }
 }
 
+.content1div{
+    text-align: center;
+    width:50%;
+    float: left;
+    padding:10px
+}
